@@ -19,6 +19,17 @@ h1 {
 	color: white;
 }
 
-span {
-	color:white;
+#stripe {
+	background-color:white;
+	height: 30px;
+	color:black;
+	text-align:center;
 }
+
+.selected {
+	background-color: blue;
+}
+
+/*span {
+	color:white;
+}*/
