@@ -3,14 +3,19 @@
 <head>
 	<title>Color Game</title>
 	<link rel="stylesheet" type="text/css" href="color-game.css">
+	<link href="https://fonts.googleapis.com/css?family=Bitter:400,700|Kavivanar|Supermercado+One" rel="stylesheet">
 </head>
 <body>
-	<h1>Guess the <span id="colorDisplay">RGB</span> Color</h1>
+	<h1>Guess the
+	<br>
+	<span id="colorDisplay">RGB</span>
+	<br>
+	Color</h1>
 	<div id="stripe">
 		<button id="reset">New Color</button>
+		<span id="message"></span>
 		<button id="easyBtn">Easy</button>
 		<button id="hardBtn" class="selected">Hard</button>
-		<span id="message"></span>
 	</div>
 	<div id="container">
 		<div class="square"></div>
