@@ -6,7 +6,12 @@
 <h4>One needs to determine the rgb sequence corresponds to which color box</h4>
 
 
-![color-game2](https://user-images.githubusercontent.com/23719700/35233477-4dfd0e1c-ffc4-11e7-8eb9-bf4afc2e5a55.png)
+![color-game2](https://user-images.githubusercontent.com/23719700/35233923-8290ada4-ffc5-11e7-92d4-81edd73aca5f.png)
+
+<h4>The game can be played in Easy(3squares) and Hard (6 squares) mode</h4>
+
+![color-game3](https://user-images.githubusercontent.com/23719700/35233941-8ad7fb70-ffc5-11e7-88a3-e39b84436eca.png)
 
 
-![color-game3](https://user-images.githubusercontent.com/23719700/35233487-53e0ad34-ffc4-11e7-8c1a-08a66fd63fd9.png)
+
+
